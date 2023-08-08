@@ -1,0 +1,248 @@
+[
+  {
+    "id": "1",
+    "title": "OPTION1",
+    "titleBackgroundColor": "#FBC1AD",
+    "contentBackgroundColor": "#FBEDE8",
+    "buttonBg": "#b65543",
+    "buttonText": "Button 1",
+    "icon": "IconA",
+    "tips": {
+      "title": "OPTION1.tips",
+      "icon": "xxxx.png",
+      "menuItems": [
+        {
+          "title": "OPTION1A",
+          "url": "http://ret.com"
+        },
+        {
+          "title": "OPTION1B",
+          "url": "http://xxretertxxxx.com"
+        },
+        {
+          "title": "OPTION1C",
+          "url": "http://retrete.com"
+        }
+      ]
+    },
+    "menuItems": [
+      {
+        "title": "OPTION1",
+        "icon": "Email1",
+        "menuItems": [
+          {
+            "title": "wfao.apply.list",
+            "url": "http://xyz.com",
+            "isFavourite": true,
+            "subMenuItems": [
+              {
+                "title": "wfao. supplementaryDocs. subTitle",
+                "url": "http://xxxxxx.com",
+                "isFavourite": true
+              },
+              {
+                "title": "wfao. supplementaryDocs. subTitle",
+                "url": "http://xxxxxx.com",
+                "isFavourite": false
+              },
+              {
+                "title": "wfao. supplementaryDocs. subTitle",
+                "url": "http://xxxxxx.com",
+                "isFavourite": true
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "wfao.supplementaryDocs",
+        "icon": "Email1",
+        "subTitle": "wfao.supplementaryDocs.subTitle",
+        "menuItems": [
+          {
+            "title": "wfao.supplementaryDocs.platform",
+            "url": "http://dsfsf.com",
+            "isFavourite": true
+          },
+          {
+            "title": "wfao.supplementaryDocs.history",
+            "url": "http://xxsfsfsxxxx.com",
+            "isFavourite": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "OPTION2",
+    "titleBackgroundColor": "#cfe6eb",
+    "contentBackgroundColor": "#e4f2f5",
+    "buttonBg": "#447293",
+    "buttonText": "Button 2",
+    "icon": "IconB",
+    "tips": {
+      "title": "OPTION2.tips",
+      "icon": "xxxx.png",
+      "menuItems": [
+        {
+          "title": "OPTION2A",
+          "url": "http://dsfsdf.com"
+        },
+        {
+          "title": "OPTION2B",
+          "url": "http://sdfdsf.com"
+        },
+        {
+          "title": "OPTION2C",
+          "url": "http://ewrewrw.com"
+        }
+      ]
+    },
+    "menuItems": [
+      {
+        "title": "OPTION2A",
+        "icon": "Email1",
+        "menuItems": [
+          {
+            "title": "wfao.apply.list",
+            "url": "http://ewrew.com",
+            "isFavourite": true
+          }
+        ]
+      },
+      {
+        "title": "wfao.supplementaryDocs",
+        "icon": "Email1",
+        "subTitle": "wfao.supplementaryDocs.subTitle",
+        "menuItems": [
+          {
+            "title": "wfao.supplementaryDocs.platform",
+            "url": "http://ewrewrew.com",
+            "isFavourite": false
+          },
+          {
+            "title": "wfao.supplementaryDocs.history",
+            "url": "http://ewrewrew.com",
+            "isFavourite": false
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": "3",
+    "title": "OPTION3",
+    "titleBackgroundColor": "#a3cebd",
+    "contentBackgroundColor": "#a3cebd",
+    "buttonBg": "#13545b",
+    "buttonText": "Button 3",
+    "icon": "IconC",
+    "tips": {
+      "title": "OPTION3.tips",
+      "icon": "xxxx.png",
+      "menuItems": [
+        {
+          "title": "OPTION3A",
+          "url": "http://fdgdfg.com"
+        },
+        {
+          "title": "OPTION3B",
+          "url": "http://fddfg.com"
+        },
+        {
+          "title": "OPTION3C",
+          "url": "http://xxxxdfsfsxx.com"
+        }
+      ]
+    },
+    "menuItems": [
+      {
+        "title": "OPTION3A",
+        "icon": "Email1",
+        "menuItems": [
+          {
+            "title": "wfao.apply.list",
+            "url": "http://dgdgs.com",
+            "isFavourite": true
+          }
+        ]
+      },
+      {
+        "title": "OPTION3B",
+        "icon": "Email1",
+        "subTitle": "wfao.supplementaryDocs.subTitle",
+        "menuItems": [
+          {
+            "title": "wfao.supplementaryDocs.platform",
+            "url": "http://dfdfds.com",
+            "isFavourite": false
+          },
+          {
+            "title": "wfao.supplementaryDocs.history",
+            "url": "http://sdfdsf.com",
+            "isFavourite": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "title": "OPTION4",
+    "titleBackgroundColor": "#FBC1AD",
+    "contentBackgroundColor": "#FBEDE8",
+    "buttonBg": "#b65543",
+    "buttonText": "Button 4",
+    "icon": "IconA",
+    "tips": {
+      "title": "OPTION3.tips",
+      "icon": "xxxx.png",
+      "menuItems": [
+        {
+          "title": "OPTION4A",
+          "url": "http://sfdfs.com"
+        },
+        {
+          "title": "OPTION4B",
+          "url": "http://sf.com"
+        },
+        {
+          "title": "OPTION4C",
+          "url": "http://dsfsd.com"
+        }
+      ]
+    },
+    "menuItems": [
+      {
+        "title": "OPTION4A",
+        "icon": "Email1",
+        "menuItems": [
+          {
+            "title": "wfao.apply.list",
+            "url": "http://sfds.com",
+            "isFavourite": true
+          }
+        ]
+      },
+      {
+        "title": "OPTION4B",
+        "icon": "Email1",
+        "subTitle": "wfao.supplementaryDocs.subTitle",
+        "menuItems": [
+          {
+            "title": "wfao.supplementaryDocs.platform",
+            "url": "http://sdfsdf.com",
+            "isFavourite": false
+          },
+          {
+            "title": "wfao.supplementaryDocs.history",
+            "url": "http://sdfsd.com",
+            "isFavourite": false
+          }
+        ]
+      }
+    ]
+  }
+]
